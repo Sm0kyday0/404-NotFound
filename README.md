@@ -2,7 +2,7 @@
 
 
 ![Current version](https://img.shields.io/badge/version-0.1.1-white)
-![Download count](https://img.shields.io/github/downloads/Smokyday0/404-NotFound/latest/total)
+![Download count](https://img.shields.io/github/downloads/Sm0kyday0/404-NotFound/latest/total)
 
 # 404-NotFound
 Strong hack for Minecraft anarchy servers.
