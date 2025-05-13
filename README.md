@@ -9,6 +9,8 @@ Strong hack for Minecraft anarchy servers.
 
 TrollHack skid
 
+Default prefix - **```;```**
+
 Discord server link: https://discord.gg/KQVAVNmj4m
 
 # System Requirements
