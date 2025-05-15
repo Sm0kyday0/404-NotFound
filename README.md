@@ -13,6 +13,10 @@ Default prefix - **```;```**
 
 Discord server link: https://discord.gg/KQVAVNmj4m
 
+## GUI
+
+![Image](https://github.com/user-attachments/assets/603ad0ca-61a0-4aea-afe5-066220963414)
+
 # System Requirements
 
 OS: Windows or Linux (Mac OS is unsupported)
