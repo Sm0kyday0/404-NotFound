@@ -13,21 +13,8 @@ Default prefix - **```;```**
 
 Discord server link: https://discord.gg/KQVAVNmj4m
 
-## GUI
-
+## ClickGUI
 ![Image](https://github.com/user-attachments/assets/603ad0ca-61a0-4aea-afe5-066220963414)
-
-# System Requirements
-
-OS: Windows or Linux (Mac OS is unsupported)
-
-CPU: 6th gen Intel Core i3 or AMD equivalent
-
-RAM: 4 GB
-
-GPU: Intel HD Graphics 510 (2015), NVIDIA GeForce 400 Series (2010), AMD Radeon HD 7000 Series (2012) or newer. Required OpenGL 4.6.
-
-Software: Java 8, Minecraft 1.12.2 with Forge
 
 
 スモーキーが色々やってめちゃくちゃになってたので自分が代行Push by h_ypi
