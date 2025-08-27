@@ -1,0 +1,11 @@
+[
+  {
+    "modid": "${MOD_ID}",
+    "name": "${MOD_NAME}",
+    "version": "0.1.1",
+    "mcversion": "1.12.2",
+    "description": "skid",
+    "authorList": ["_Smoky319"],
+    "url": "https://discord.com/invite/KQVAVNmj4m"
+  }
+]
