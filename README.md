@@ -27,5 +27,8 @@ RAM: 4 GB
 
 GPU: Intel HD Graphics 510 (2015), NVIDIA GeForce 400 Series (2010), AMD Radeon HD 7000 Series (2012) or newer. Required OpenGL 4.6.
 
+
+スモーキーが色々やってめちゃくちゃになってたので自分が代行Push by h_ypi
+
 Software: Java 8, Minecraft 1.12.2 with Forge
 
